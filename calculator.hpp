@@ -5,6 +5,7 @@ class Calc
   int subtract(int a, int b);
   int divide(int a, int b);
   int multiply(int a, int b);
+  int pow(int num, int power);
 };
 
 #define calculator_hpp
